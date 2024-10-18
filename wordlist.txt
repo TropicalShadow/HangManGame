@@ -1,0 +1,6 @@
+car
+bike
+tower
+house
+window
+tree
